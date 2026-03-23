@@ -1,10 +1,3 @@
-Below is a **clean, professional `README.md`** you can directly use for your **Medical Chatbot (RAG) project** on GitHub.
-It explains **project overview, what you learned, architecture, technologies, future improvements, and alternative methods**.
-
-You can copy-paste this into `README.md`.
-
----
-
 # 🏥 Medical Chatbot using RAG (Retrieval Augmented Generation)
 
 ## 📌 Project Overview
